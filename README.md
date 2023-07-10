@@ -1,4 +1,4 @@
-This project aims to summarize any given Telugu text of any size by making use of TF_IDF matrix i.e. Term Frequency and Inverse Document Frequency matrix. The project was originally referenced from a Nepali Summarizer(https://github.com/himalayan-sanjeev/Nepali_Text_Summarization_Extractive#readme) which uses the same methodology to summarize Nepali text
+This project aims to summarize any given Telugu text of any size by making use of TF_IDF matrix i.e. Term Frequency and Inverse Document Frequency matrix. The project was originally referenced from a <a href="https://github.com/himalayan-sanjeev/Nepali_Text_Summarization_Extractive#readme">Nepali Summarizer</a> which uses the same methodology to summarize Nepali text
 
 The procedure is as follows-
 1. The text file containing the Telugu text is taken as input. All of the \n or newline characters are converted to spaces for easier text processing
